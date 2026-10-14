@@ -1,0 +1,6 @@
+{
+  "name": "PhinFinder - Cà Phê Quận 3",
+  "description": "Tìm kiếm và khám phá chi tiết các quán cà phê đặc trưng tại Quận 3, TP. Hồ Chí Minh với bản đồ vị trí và bộ lọc tiện ích thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
