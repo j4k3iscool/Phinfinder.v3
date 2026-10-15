@@ -30,7 +30,7 @@ jobs:
         run: npm install --legacy-peer-deps
 
       - name: Build
-        run: npx vite build --emptyOutDir
+        run: npx vite build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
